@@ -1,0 +1,27 @@
+[[main]]
+  name = "Главная"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Практическая работа 9 V29"
+  url = "about/"
+  weight = -107
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/Saxaridze"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/saxar4ik"
+[[social]]
+  name = "youtube"
+  weight = 3
+  url = "https://www.youtube.com/channel/UCVhAGRiPybahSL52MqIIPIQ"
+[[social]]
+  name = "discord"
+  weight = 4
+  url = "https://discord.gg/SPTcjYQv"
